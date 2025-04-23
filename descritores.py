@@ -24,7 +24,7 @@ with st.sidebar:
     st.markdown('# Relatório de notas parcial')
     st.title('Simulados SAEB 2025  \n Escola Estadual Helena Dionysio')
 
-    df = pd.read_csv("Dados_Planilha_9A/descritores.csv", sep=",")
+    df = pd.read_csv("descritores.csv", sep=",")
 
     with st.sidebar:
         salas_distintas = df["Simulados"].unique().tolist()
