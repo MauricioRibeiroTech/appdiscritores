@@ -44,3 +44,9 @@ A utilização deste aplicativo para análise de dados de simulados oferece dive
 * **Preparação Eficaz para o SAEB 2025:** Ao fornecer uma visão clara do desempenho dos alunos nas habilidades avaliadas, o aplicativo contribui para uma preparação mais direcionada e eficiente para o SAEB.
 
 Em suma, este aplicativo desenvolvido em Python com Streamlit, Pandas e NumPy representa uma ferramenta poderosa e acessível para a análise de dados educacionais, oferecendo aos profissionais da educação *insights* valiosos para a melhoria contínua do processo de ensino-aprendizagem e para uma preparação eficaz para avaliações como o SAEB 2025.
+
+**Link preliminar para observação do aplicativo e dos dados:
+  [DADOS COLETADOS EM MARKDOWN]([https://www.genome.gov/](https://helenadionysiosaebpreliminar.streamlit.app/))
+
+  
+  
