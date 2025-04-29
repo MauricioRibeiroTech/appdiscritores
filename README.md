@@ -1,6 +1,4 @@
-# Aplicativo SAEB 2025 com descritores
-
-## Análise de Desempenho em Simulado SAEB 2025 com Python e Streamlit
+# Análise de Desempenho em Simulado SAEB 2025 com Python e Streamlit
 
 Este texto apresenta um aplicativo desenvolvido em Python utilizando as poderosas bibliotecas **Streamlit**, **Pandas** e **NumPy** para realizar a análise de dados de notas de simulados aplicados a alunos do nono ano, com foco na preparação para o Sistema de Avaliação da Educação Básica (**SAEB**) de 2025. Através de uma interface intuitiva e interativa, o aplicativo permite aos educadores e gestores obter *insights* valiosos sobre o desempenho dos estudantes, identificar áreas de força e fraqueza, e direcionar estratégias pedagógicas de forma mais eficaz.
 
